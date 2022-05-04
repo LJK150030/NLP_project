@@ -90,8 +90,8 @@ CALCULATION = [
 
 # ---------------------------------------------------------------------------------------
 # Change these variables for the specific procedures, and where to find the documents
-CURRENT_SET = "count_vectorizer"
-CURRENT_CALC = "projection"
+CURRENT_SET = "tfidf_vectorizer"
+CURRENT_CALC = "dot_product"
 DIR_OF_TEXT = os.path.join(CURRENT_DIRECTORY, "en_data/benjamin_franklin_paragraphs")
 FILE_PATH_TEXTS = GetListOfFileNames(DIR_OF_TEXT)
 # ---------------------------------------------------------------------------------------
