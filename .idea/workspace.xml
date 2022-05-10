@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98cc7d12-7a8d-4c76-9a21-d6dd5454f40f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/en_data/tfidf_vectorizer/dot_product/0_negative_positive.csv" beforeDir="false" afterPath="$PROJECT_DIR$/en_data/tfidf_vectorizer/dot_product/0_negative_positive.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en_data/tfidf_vectorizer/dot_product/10_remorse_gratification.csv" beforeDir="false" afterPath="$PROJECT_DIR$/en_data/tfidf_vectorizer/dot_product/10_remorse_gratification.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en_data/tfidf_vectorizer/dot_product/11_anger_gratitude.csv" beforeDir="false" afterPath="$PROJECT_DIR$/en_data/tfidf_vectorizer/dot_product/11_anger_gratitude.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en_data/tfidf_vectorizer/dot_product/13_disappointment_relief.csv" beforeDir="false" afterPath="$PROJECT_DIR$/en_data/tfidf_vectorizer/dot_product/13_disappointment_relief.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en_data/tfidf_vectorizer/dot_product/1_displeased_pleased.csv" beforeDir="false" afterPath="$PROJECT_DIR$/en_data/tfidf_vectorizer/dot_product/1_displeased_pleased.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en_data/tfidf_vectorizer/dot_product/2_disapproving_approving.csv" beforeDir="false" afterPath="$PROJECT_DIR$/en_data/tfidf_vectorizer/dot_product/2_disapproving_approving.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en_data/tfidf_vectorizer/dot_product/3_disliking_liking.csv" beforeDir="false" afterPath="$PROJECT_DIR$/en_data/tfidf_vectorizer/dot_product/3_disliking_liking.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en_data/tfidf_vectorizer/dot_product/4_fear_hope.csv" beforeDir="false" afterPath="$PROJECT_DIR$/en_data/tfidf_vectorizer/dot_product/4_fear_hope.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en_data/tfidf_vectorizer/dot_product/5_distress_joy.csv" beforeDir="false" afterPath="$PROJECT_DIR$/en_data/tfidf_vectorizer/dot_product/5_distress_joy.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en_data/tfidf_vectorizer/dot_product/6_shame_pride.csv" beforeDir="false" afterPath="$PROJECT_DIR$/en_data/tfidf_vectorizer/dot_product/6_shame_pride.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en_data/tfidf_vectorizer/dot_product/7_reproach_admiration.csv" beforeDir="false" afterPath="$PROJECT_DIR$/en_data/tfidf_vectorizer/dot_product/7_reproach_admiration.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en_data/tfidf_vectorizer/dot_product/8_hate_love.csv" beforeDir="false" afterPath="$PROJECT_DIR$/en_data/tfidf_vectorizer/dot_product/8_hate_love.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en_data/tfidf_vectorizer/dot_product/9_disgust_interest.csv" beforeDir="false" afterPath="$PROJECT_DIR$/en_data/tfidf_vectorizer/dot_product/9_disgust_interest.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en_data/tfidf_vectorizer/projection/0_negative_positive.csv" beforeDir="false" afterPath="$PROJECT_DIR$/en_data/tfidf_vectorizer/projection/0_negative_positive.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en_data/tfidf_vectorizer/projection/10_remorse_gratification.csv" beforeDir="false" afterPath="$PROJECT_DIR$/en_data/tfidf_vectorizer/projection/10_remorse_gratification.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en_data/tfidf_vectorizer/projection/11_anger_gratitude.csv" beforeDir="false" afterPath="$PROJECT_DIR$/en_data/tfidf_vectorizer/projection/11_anger_gratitude.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en_data/tfidf_vectorizer/projection/13_disappointment_relief.csv" beforeDir="false" afterPath="$PROJECT_DIR$/en_data/tfidf_vectorizer/projection/13_disappointment_relief.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en_data/tfidf_vectorizer/projection/1_displeased_pleased.csv" beforeDir="false" afterPath="$PROJECT_DIR$/en_data/tfidf_vectorizer/projection/1_displeased_pleased.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en_data/tfidf_vectorizer/projection/2_disapproving_approving.csv" beforeDir="false" afterPath="$PROJECT_DIR$/en_data/tfidf_vectorizer/projection/2_disapproving_approving.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en_data/tfidf_vectorizer/projection/3_disliking_liking.csv" beforeDir="false" afterPath="$PROJECT_DIR$/en_data/tfidf_vectorizer/projection/3_disliking_liking.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en_data/tfidf_vectorizer/projection/4_fear_hope.csv" beforeDir="false" afterPath="$PROJECT_DIR$/en_data/tfidf_vectorizer/projection/4_fear_hope.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en_data/tfidf_vectorizer/projection/5_distress_joy.csv" beforeDir="false" afterPath="$PROJECT_DIR$/en_data/tfidf_vectorizer/projection/5_distress_joy.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en_data/tfidf_vectorizer/projection/6_shame_pride.csv" beforeDir="false" afterPath="$PROJECT_DIR$/en_data/tfidf_vectorizer/projection/6_shame_pride.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en_data/tfidf_vectorizer/projection/7_reproach_admiration.csv" beforeDir="false" afterPath="$PROJECT_DIR$/en_data/tfidf_vectorizer/projection/7_reproach_admiration.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en_data/tfidf_vectorizer/projection/8_hate_love.csv" beforeDir="false" afterPath="$PROJECT_DIR$/en_data/tfidf_vectorizer/projection/8_hate_love.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en_data/tfidf_vectorizer/projection/9_disgust_interest.csv" beforeDir="false" afterPath="$PROJECT_DIR$/en_data/tfidf_vectorizer/projection/9_disgust_interest.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maneframe.py" beforeDir="false" afterPath="$PROJECT_DIR$/maneframe.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="28To1lSNi1Pn0qcL1oo1BnrbdMn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98cc7d12-7a8d-4c76-9a21-d6dd5454f40f" name="Changes" comment="" />
+      <created>1651249726379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651249726379</updated>
+      <workItem from="1651249728443" duration="8000" />
+      <workItem from="1651694147299" duration="108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
